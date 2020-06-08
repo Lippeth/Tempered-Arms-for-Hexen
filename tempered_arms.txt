@@ -1,0 +1,130 @@
+========================================================
+Advanced engine needed  : GZDoom Version 4.4.0 or higher
+Primary purpose         : Single Player
+========================================================
+Title                   : Tempered Arms for Hexen
+Filename                : tempered_arms.pk3
+Latest Update           : June 07, 2020
+Author                  : Lippeth
+Email Address           : lippeth@gmail.com
+Other Files By Author   : Weapns of Saturn, CRT HUD, Unheil, Interrupted
+
+Description             : A "Vanilla+" weapon overhaul for Hexen that tries to add a little more punch to the combat, adding alt fire attacks, a few new graphics, and reworked animations.
+
+=================
+* THE ARMORY *
+=================
+
+*Fighter*
+
+-Hefty & Spike
+	Replaces Spiked Gauntlets. Punches come from the left arm, while the right arm weilds the Hefty Sword designed by neoworm. Both Hefty and Spike function similar to vanilla in that the third hit is more powerful, with animations to reflect.
+
+-Timon's Axe
+	A combination of vanilla and Hexercise, primary fire swings the axe in one of three ways at random, and altfire is a shield bash, with a modified shield sprite by neoworm.
+
+-Hammer of Retribution
+	Primary fire is vanilla, with sprites by neoworm for certain frames. Altfire is a horizontal swing that releases four hammers that fall to the ground and explode.
+
+-Quietus
+	Identical to Hexercise, but projectiles rip through monsters. Still thinking of more ideas.
+
+*Cleric*
+
+-Mace of Contrition
+	Functions almost identically to Hexercise. Swings in one of three directions, altfire is a shield bash. Shield sprite and modified widescreen sprites by neoworm
+
+-Serpent Staff
+	Primary fire works the same as vanilla, alt fire is a mace swing that's been charged by the staff's magic.
+
+-Firestorm
+	Same as vanilla, but with new animation. Altfire rains fire at close range. Code is based on the Hellstaff's rain pillar from Brutal Heretic RPG by Seidolon.
+
+-Wraithverge
+	Identical to Hexercise. Primary fire charges a wraith attack, while altfire releases a single blast.
+
+*Mage*
+
+-Sapphire Wand
+	Animations based on Hexercise, primary fire functions the same as vanilla, altfire turns the wand around to charge when held, and thrusts forward with a close range magic attack, similar to Hexercise but with the wand instead of a hand.
+
+-Frost Shards
+	Primary fire is based on vanilla, but holding down fire shoots individual shards, similar to Hexercise. Altfire is a magic shield that absorbs incoming projectiles, but disappears quickly. Modified grimoire sprites by neoworm.
+
+-Arc of Death
+	Primary attack is a quicker version of vanilla, and altfire is a close range lightning attack that syphons green mana and to a lesser extent blue mana. 
+
+-Bloodscourge
+	Identical to Hexercise other than animation. Projectiles target monsters.
+
+For all weapons that work identically to that of Hexercise, I plan to change them once I have a good idea of what I want to achieve. This project will be ongoing and everything is subject to change.
+
+===========
+* CREDITS *
+===========
+Resources have been used and modified from the following:
+
+	Hexercise:		le_L/Lloyd
+	https://forum.zdoom.org/viewtopic.php?t=33766
+
+	Hexen Rebalanced:	ReaperAA
+	https://www.doomworld.com/forum/topic/106372-hexen-rebalanced-a-subtle-balance-mod-for-hexen-beta-5a/
+
+	Additional Decorate code by Seidolon from:
+	HereticalDoom:		Ryuhi
+	https://forum.zdoom.org/viewtopic.php?f=43&t=56762
+
+	Sprites:		neoworm
+
+	Additional testing and advice: whirledtsar
+
+====================
+* What is included *
+====================
+New levels              : None
+Sounds                  : No
+Music                   : No
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : No
+
+====================
+* Play Information *
+====================
+Game                    : Hexen
+Map #                   : All
+Single Player           : Designed for
+Cooperative 2-4 Player  : Untested
+Deathmatch 2-4 Player   : Untested
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+================
+* Construction *
+================
+Base                    : New from scratch and credited resources
+Build Time              : A very casual pace over Two months
+Editor(s) used          : Slade3, Photoshop
+Known Bugs              : None
+May Not Run With        : Any other weapon mod
+Tested With             : GZDoom 4.3.3, GZDoom 4.4.0
+
+===========================
+* Copyright / Permissions *
+===========================
+Authors MAY use the contents of this file as a base for
+modification or reuse with proper crediting.  Permissions have been obtained from original 
+authors for any of their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file 
+intact.  I have received permission from the original authors of any
+modified or included content in this file to allow further distribution.
+
+=======================================================
+* Where to get the file that this text file describes *
+=======================================================
+http://www.mediafire.com/file/2oqtwcsfy3o3s4i/tempered_arms.zip/file
